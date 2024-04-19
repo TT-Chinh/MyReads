@@ -1,10 +1,10 @@
 # MyReads: A Book Tracking App
 
-# Clone repo from github
+## Clone repo from github
 
 In your folder, you can run:
 
-# `git clone https://github.com/TT-Chinh/MyReads.git`
+### `git clone https://github.com/TT-Chinh/MyReads.git`
 
 ## Available Scripts
 
